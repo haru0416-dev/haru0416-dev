@@ -23,8 +23,8 @@
   <img height="170" src="https://streak-stats.demolab.com/?user=haru0416-dev&hide_border=true&background=00000000&stroke=d0d7de&ring=0969da&fire=0969da&currStreakNum=24292f&sideNums=24292f&currStreakLabel=0969da&sideLabels=57606a&dates=8b949e" alt="Contribution streak">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haru0416-dev&layout=compact&langs_count=6&hide=html,css,ruby,c%23&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=c9d1d9">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haru0416-dev&layout=compact&langs_count=6&hide=html,css,ruby,c%23&hide_border=true&bg_color=00000000&title_color=57606a&text_color=24292f" alt="Most used languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haru0416-dev&theme=github_dark">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haru0416-dev&theme=default" alt="Top languages by repository">
 </picture>
 
 <br><br>

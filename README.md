@@ -20,7 +20,11 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=haru0416-dev&hide_border=true&background=00000000&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e">
-  <img src="https://streak-stats.demolab.com/?user=haru0416-dev&hide_border=true&background=00000000&stroke=d0d7de&ring=0969da&fire=0969da&currStreakNum=24292f&sideNums=24292f&currStreakLabel=0969da&sideLabels=57606a&dates=8b949e" alt="Contribution streak">
+  <img height="170" src="https://streak-stats.demolab.com/?user=haru0416-dev&hide_border=true&background=00000000&stroke=d0d7de&ring=0969da&fire=0969da&currStreakNum=24292f&sideNums=24292f&currStreakLabel=0969da&sideLabels=57606a&dates=8b949e" alt="Contribution streak">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haru0416-dev&layout=compact&langs_count=6&hide=html,css,ruby,c%23&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=c9d1d9">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haru0416-dev&layout=compact&langs_count=6&hide=html,css,ruby,c%23&hide_border=true&bg_color=00000000&title_color=57606a&text_color=24292f" alt="Most used languages">
 </picture>
 
 <br><br>

@@ -12,22 +12,6 @@
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=rust,ts,bun,astro,cloudflare,python,go,wasm&theme=light" alt="Rust, TypeScript, Bun, Astro, Cloudflare, Python, Go, WebAssembly"></a>
 
-</div>
-
-<br>
-
-### 🌱 作っているもの
-
-| | 作品 | 概要 |
-|:--|:--|:--|
-| 💬 | [**人工無脳君 (munou)**](https://github.com/haru0416-dev/munou) | 既製の LLM を使わない対話プログラム。会話を理解せずに応答する仕組みを作り、育つ様子を観察している。[ブラウザで試す →](https://haru0416-dev.github.io/munou/) |
-| ⚖️ | [**dubito**](https://github.com/haru0416-dev/dubito) | 数学の解答を検証するツール。複数のソルバが別々に定式化し、Z3 で照合する。 |
-| 📰 | [**famulus**](https://github.com/haru0416-dev/famulus) | AI 関連の情報を集め、公開用の文章を書く常駐エージェント。Bun + Effect + SQLite。 |
-| ✨ | [**Fraxinus**](https://github.com/haru0416-dev/fraxinus-release) | 検索・画像生成・図表・PDF・スライドを JSON で呼び出せる CLI。 |
-| 🧩 | [**partial-aot**](https://github.com/haru0416-dev/partial-aot) | TypeScript のうち静的に決まる関数だけを C に変換する研究実装。準備中。 |
-
-<div align="center">
-
 <br>
 
 <picture>
